@@ -1,0 +1,20 @@
+{"frames": {
+
+"Group.svg":
+{
+	"frame": {"x":1,"y":1,"w":93,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":91},
+	"sourceSize": {"w":93,"h":91}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "satoshi.png",
+	"format": "RGBA8888",
+	"size": {"w":95,"h":93},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:681acf43f12a36f054884d6c39a53c03:12e1dbcfef7f13ba7e09f3985a4839e8:d20fdbcfd2ff90a2fa907a14fb8b0f0c$"
+}
+}
